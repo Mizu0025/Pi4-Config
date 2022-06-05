@@ -1,0 +1,12 @@
+# ignore symlinks and folders
+usb1
+docker/
+websites/
+
+# ignore filetypes
+*.txt
+
+# ignore hidden files
+.*
+
+
